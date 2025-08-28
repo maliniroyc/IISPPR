@@ -19,7 +19,7 @@ Week 2 - Task 2 - Research Paper for " How effectively youth aged 15–24 transi
 From Learning to Earning: Youth Education-to-Employment Transition in India  <br>
 
 **Discription** <br>
-Conducted a comprehensive study on youth aged 15–24 across all Indian states and union territories, using Census 2011 data. Analyzed transitions from education to employment, skill acquisition, and labor market outcomes to inform policy and program design. <br>
+Research on youth aged 15–24 across all Indian states and union territories, using Census 2011 data. Analyzed transitions from education to employment, skill acquisition, and labor market outcomes to inform policy and program design. <br>
 
 **Tools** <br>
 Excel, Python & Power BI <br>
@@ -34,18 +34,20 @@ Excel, Python & Power BI <br>
 ![5](https://github.com/user-attachments/assets/1dae26bb-6930-4c2d-b855-a11892692c1c)
 ![6](https://github.com/user-attachments/assets/610f4901-ab34-4244-b001-121535bb66ed)
 
-Week 3 - Task 3 - Public policy for "Analysis of health insurance coverage types (public, private, employer-based) and their link to financial risk indicators like catastrophic health expenditure and hospitalization rates."
+Week 3 - Task 3 - Public policy for "Analysis of India's Health Insurance Coverage to Mitigate Financial Risk"
 ---
 **Title** <br>
 Bridging the Gap in India's Health Insurance Coverage to Mitigate Financial Risk <br>
 Resources : https://ndap.niti.gov.in/collection/Rural%20Health%20Statistics/63 <br>
 
 **Discription** <br>
-India’s path toward comprehensive health insurance coverage is slowed by deep disparities in both adoption and effectiveness. Many households remain vulnerable to the financial shock of medical expenses. These brief analyses the patterns of health insurance coverage and its critical link to catastrophic health expenditure and hospitalization rates. <br>
+Policy brief analysis the growing enrollment in public health schemes in India, over 70% of India’s population remains uninsured, leaving millions exposed to catastrophic medical costs. This analysis highlights regional disparities, limited private sector engagement, and the urgent need for deeper, more equitable coverage to reduce financial vulnerability across states.
 
 **Tools** <br>
 Excel, SQL & Power BI <br>
-#####  Skills Applied: Data Collection from NDA , Data Profiling on PostgerSQL, EDA, Dashboard Development on Power BI
+#####  Skills Applied: Data Collection from NDA , Data Profiling on PostgerSQL, EDA, Dashboard Development/Insights on Power BI
+
+**Screenshot**
 
 ### Author
 -----
