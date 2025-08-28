@@ -19,7 +19,7 @@ Week 2 - Task 2 - Research Paper for " How effectively youth aged 15–24 transi
 From Learning to Earning: Youth Education-to-Employment Transition in India  <br>
 
 **Discription** <br>
-Research on youth aged 15–24 across all Indian states and union territories, using Census 2011 data. Analyzed transitions from education to employment, skill acquisition, and labor market outcomes to inform policy and program design. <br>
+Research on youth aged 15–24 across all Indian states and union territories using Census 2011 data. It analyzes transitions from education to employment, patterns of skill acquisition, and labor market outcomes to inform evidence-based policy and program design. <br>
 
 **Tools** <br>
 Excel, Python & Power BI <br>
@@ -41,7 +41,7 @@ Bridging the Gap in India's Health Insurance Coverage to Mitigate Financial Risk
 Resources : https://ndap.niti.gov.in/collection/Rural%20Health%20Statistics/63 <br>
 
 **Discription** <br>
-Policy brief analysis the growing enrollment in public health schemes in India, over 70% of India’s population remains uninsured, leaving millions exposed to catastrophic medical costs. This analysis highlights regional disparities, limited private sector engagement, and the urgent need for deeper, more equitable coverage to reduce financial vulnerability across states.
+This policy brief analyzes the rising enrollment in public health schemes across India. Despite these gains, over 70% of the population remains uninsured, leaving millions vulnerable to catastrophic medical expenses. The analysis underscores regional disparities, limited private sector participation, and the pressing need for more inclusive and equitable coverage to reduce financial risk across states. <br>
 
 **Tools** <br>
 Excel, SQL & Power BI <br>
