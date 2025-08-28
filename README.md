@@ -8,12 +8,12 @@ This policy brief presents a data-driven analysis of gender and regional dispari
 
 **Tools** <br>
 Excel, Python & Power BI <br>
-#####  Skills Applied: Data Collection from Census 2011, Data Cleaning on Python, EDA, Dashboard Development on Power BI
+#####  Skills Applied: Data Collection from Census 2011, Data Cleaning on JupyterNotebook, EDA, Dashboard Development on Power BI
 **Screenshot**
 
 ![Screenshot 2025-08-26 232920](https://github.com/user-attachments/assets/62035536-0190-4d1e-841a-2d8192091459)
 
-Week 2 - Task 2 - Research Paper for " Is there a pattern between state level female literacy rates and the percentage of households with internet or computer access? " <br>
+Week 2 - Task 2 - Research Paper for " How effectively youth aged 15–24 transition from education to employment across different education levels and regions in India ? " <br>
 ----
 **Title** <br>
 From Learning to Earning: Youth Education-to-Employment Transition in India  <br>
@@ -23,7 +23,7 @@ Conducted a comprehensive study on youth aged 15–24 across all Indian states a
 
 **Tools** <br>
 Excel, Python & Power BI <br>
-##### Skills Applied: Data Collection from Census 2011, Data Cleaning on Python, EDA, Dashboard Development  on Power BI
+##### Skills Applied: Data Collection from Census 2011, Data Cleaning on JupyterNotebook, EDA, Dashboard Development  on Power BI
 
 **Screenshot**
 
@@ -33,6 +33,19 @@ Excel, Python & Power BI <br>
 ![4](https://github.com/user-attachments/assets/6f930e80-cbba-4e64-9185-1e6968748ff3)
 ![5](https://github.com/user-attachments/assets/1dae26bb-6930-4c2d-b855-a11892692c1c)
 ![6](https://github.com/user-attachments/assets/610f4901-ab34-4244-b001-121535bb66ed)
+
+Week 3 - Task 3 - Public policy for "Analysis of health insurance coverage types (public, private, employer-based) and their link to financial risk indicators like catastrophic health expenditure and hospitalization rates."
+---
+**Title** <br>
+Bridging the Gap in India's Health Insurance Coverage to Mitigate Financial Risk <br>
+Resources : https://ndap.niti.gov.in/collection/Rural%20Health%20Statistics/63 <br>
+
+**Discription** <br>
+India’s path toward comprehensive health insurance coverage is slowed by deep disparities in both adoption and effectiveness. Many households remain vulnerable to the financial shock of medical expenses. These brief analyses the patterns of health insurance coverage and its critical link to catastrophic health expenditure and hospitalization rates. <br>
+
+**Tools** <br>
+Excel, SQL & Power BI <br>
+#####  Skills Applied: Data Collection from NDA , Data Profiling on PostgerSQL, EDA, Dashboard Development on Power BI
 
 ### Author
 -----
