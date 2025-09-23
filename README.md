@@ -49,6 +49,10 @@ Excel, SQL & Power BI <br>
 
 **Screenshot**
 
+![Dashboard image ](https://github.com/user-attachments/assets/6a4234c3-b978-4679-b4c6-2b92875488ed)
+
+Week 4 - Task 4 - Public policy for Scholarship Impact Analysis in Tamil Nadu 
+
 ### Author
 -----
 My Portfolio : https://www.notion.so/MALINI-s-Portfolio-2344fb01cb77801c8151ddaa8550c2a9  <br>
